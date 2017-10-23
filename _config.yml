@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome to my blog!
+title: Jenny's Blog
 email: 953282667@qq.com
 description: >
-  Journal politique impartial, <br>
-  Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
-  du Moniteur et du Plan de Constitution, etc.
+  My motto is, <br>
+  Contented with little, <br>
+  yet wishing for more, etc.
 tagline: vitam impendere vero
 location: Chengdu
 date: true
@@ -44,7 +44,7 @@ social:
     - https://twitter.com/jdatap
     - https://www.linkedin.com/in/johncoene
     - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
+    - https://github.com/fooxd
 
 # Build settings
 exclude: README.md
